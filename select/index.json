@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Softcore",
+  "base_artist": "The Neighbourhood",
+  "createdAt": "2026-02-11T08:45:45.439123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "Tamaryn",
+      "has_synced": true,
+      "path": "select/01_Softcore_Tamaryn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hardcore Days & Softcore Nights",
+      "artist": "Aqueduct",
+      "has_synced": true,
+      "path": "select/02_Hardcore_Days_&_Softcore_Nights_Aqueduct.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hardcore Days and Softcore Nights",
+      "artist": "Aqueduct",
+      "has_synced": true,
+      "path": "select/03_Hardcore_Days_and_Softcore_Nights_Aqueduct.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/04_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/05_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/06_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/07_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Softcore (TikTok Edit) - Remix",
+      "artist": "EDITKINGS",
+      "has_synced": false,
+      "path": "select/08_Softcore_(TikTok_Edit)_-_Remix_EDITKINGS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/09_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "XXX Pt. 1 (Softcore)",
+      "artist": "Guè feat. Baby K",
+      "has_synced": true,
+      "path": "select/10_XXX_Pt._1_(Softcore)_Guè_feat._Baby_K.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Xxx, part 1 (Softcore)",
+      "artist": "Guè",
+      "has_synced": true,
+      "path": "select/11_Xxx,_part_1_(Softcore)_Guè.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/12_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Softcore - Speed Up",
+      "artist": "Strafend feat. Pizzacı",
+      "has_synced": true,
+      "path": "select/13_Softcore_-_Speed_Up_Strafend_feat._Pizzacı.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "Strafend",
+      "has_synced": true,
+      "path": "select/14_Softcore_Strafend.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Neighbourhood - Softcore - USSM11800523",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/15_The_Neighbourhood_-_Softcore_-_USSM11800523_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Softcore (Official Audio)",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/16_Softcore_(Official_Audio)_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Neighbourhood - Softcore (Official Audio)",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/17_The_Neighbourhood_-_Softcore_(Official_Audio)_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "V-Ro",
+      "has_synced": true,
+      "path": "select/18_Softcore_V-Ro.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": true,
+      "path": "select/19_Softcore_The_Neighbourhood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "has_synced": false,
+      "path": "select/pl_01_Softcore_The_Neighbourhood.txt"
+    }
+  ]
+}
